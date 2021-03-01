@@ -1,2 +1,2 @@
-# second_rep
+# second_repository
 #ingin merubah melalui Github
